@@ -61,7 +61,7 @@ def monopoly_with_fourth_tier
        {
          :pieces => 4,
          :names =>
-         {  
+         {
            :reading_railroad =>
            {
              "mortgage_value" => "100"
@@ -74,5 +74,5 @@ def monopoly_with_fourth_tier
              },
              :shortline => "800"
            }
-               
+
 end
