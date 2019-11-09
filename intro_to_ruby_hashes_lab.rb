@@ -5,8 +5,10 @@ new_hash = {
 end
 
 def actor
-actor = {
+actor = { :name => "Dwayne the Rock Johnson"
+
 }
+
 end
 
 def monopoly
