@@ -31,7 +31,7 @@ def monopoly_with_second_tier
 def monopoly_with_third_tier
 	#copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
  monopoly = {
-   
+
    :raiolroads =>
     {
       :pieces => 4,
@@ -48,7 +48,7 @@ def monopoly_with_third_tier
       :two_pieces_owned => 50,
       :three_pieces_owned => 100,
       :four_pieces_owned => 200
-   
+
  }
 end
 
